@@ -1,0 +1,117 @@
+!! comments
+###comments
+##.comments
+##.comment
+##.post__comments
+###comment_box
+||disqus.com/embed/comments/^$all
+
+!! image
+||i.ytimg.com$image
+
+!! 1337x
+1337x.to##[href="#comments"]
+1337x.to##[href="/cat/Apps/1/"]
+1337x.to##[href="/cat/Games/1/"]
+1337x.to##[href="/cat/XXX/1/"]
+
+!! baidu
+baike.baidu.com##.BK-after-content-wrapper
+baike.baidu.com###J-lemma-videos
+baike.baidu.com##.tashuo-button-fixed
+baike.baidu.com###J-bottom-tashuo
+baike.baidu.com###J-lemma-video-list
+baike.baidu.com###J-right-tashuo
+baike.baidu.com##.z-index-fixed-content
+baike.baidu.com##.full-screen-second_prestrain
+baike.baidu.com##.floatTashuo-list-wrapper
+
+!! crunchyroll
+www.crunchyroll.com##.erc-commenting-section
+www.crunchyroll.com##.series-ratings
+www.crunchyroll.com##.series-reviews-section
+www.crunchyroll.com##.premium-upsell-banner-container
+www.crunchyroll.com##.upsell-banner-container
+www.crunchyroll.com##.erc-premium-header-link
+www.crunchyroll.com##.premium-item
+www.crunchyroll.com##.erc-watch-premium-upsell
+www.crunchyroll.com##.episode-actions
+www.crunchyroll.com##.erc-anonymous-user-menu
+www.crunchyroll.com##.shell-header
+
+!! duckduckgo
+duckduckgo.com##.module--carousel-videos
+duckduckgo.com##.module--carousel-news
+duckduckgo.com##.tile__media
+duckduckgo.com##.js-result-image-wrapper
+duckduckgo.com##.related-searches
+duckduckgo.com##.text_promo
+duckduckgo.com###features
+
+!! imdb/tmdb
+imdb.com##section.celwidget.ipc-page-section--base.ipc-page-section:has-text(User reviews)
+imdb.com##div.rating-bar__base-button:has-text(IMDb RATING)
+imdb.com##li.ipc-inline-list__item:has-text(User reviews)
+www.themoviedb.org##.social_panel
+
+!! letterboxd
+letterboxd.com###film-popular-lists
+letterboxd.com###popular-lists
+letterboxd.com###popular-reviews
+letterboxd.com###popular-reviewers
+letterboxd.com###recent-reviews
+letterboxd.com###recent-from-friends
+letterboxd.com###recently-liked-lists
+letterboxd.com###live-feed
+letterboxd.com###most-active
+letterboxd.com##.ratings-histogram-chart
+letterboxd.com##section.section:has([href="/lists/popular/this/week/"])
+letterboxd.com##section.section:has([href="/reviewers/popular/this/week/"])
+letterboxd.com##section.section:has([href="/showdown/"])
+letterboxd.com##.film-stats
+letterboxd.com##.person-table
+letterboxd.com##.watch-panel
+letterboxd.com##[href^="/pro/"]
+letterboxd.com##.main-nav-people.navitem
+
+!! nationalgeographic
+www.nationalgeographic.com##.PaywallModal
+www.nationalgeographic.com##.Slider
+
+!! nofilmschool
+nofilmschool.com##.postpage-bottomcontent
+nofilmschool.com##.postpage__sideCol
+nofilmschool.com##.fbcomments
+nofilmschool.com##.topbanner
+
+!! nytimes
+www.nytimes.com###comments-speech-bubble-header
+www.nytimes.com###comments-speech-bubble-inStoryMasthead
+www.nytimes.com###comments-speech-bubble-bigBottom
+www.nytimes.com###comments-speech-bubble-footer
+
+!! spotify
+! desktop
+open.spotify.com##.encore-inverted-light-set:has-text(Explore Premium)
+open.spotify.com##.encore-over-media-set:has-text(Install App)
+open.spotify.com##li:has-text(Premium)
+open.spotify.com##li:has-text(Download)
+open.spotify.com##.main-view-container__mh-footer-container
+! mobile
+open.spotify.com##.encore-inverted-light-set:has-text(Get the app)
+open.spotify.com##.encore-inverted-light-set:has-text(App)
+open.spotify.com##button:has-text(Premium)
+open.spotify.com##button:has-text(Download)
+
+!! webtor
+webtor.io##.donate
+webtor.io##.login
+webtor.io##.badges
+webtor.io##.btn-group:has-text(Donate)
+webtor.io##.faq
+webtor.io##.features
+
+!! xunlei
+pan.xunlei.com##.client-download
+pan.xunlei.com##.openMobileXunlei
+pan.xunlei.com##.aside-bottom__act-bar

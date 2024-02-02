@@ -1,5 +1,6 @@
-[uBlock Origin]
 ! Title: Social Filters
+! Expires: 12 hours
+! Homepage: https://github.com/psychic1999/social-filters
 
 !! comments
 ###comments

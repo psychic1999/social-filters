@@ -10,9 +10,6 @@
 ###comment_box
 ||disqus.com/embed/comments/^$all
 
-!! image
-||i.ytimg.com$image
-
 !! 1337x
 1337x.to##[href="#comments"]
 1337x.to##[href="/cat/Apps/1/"]

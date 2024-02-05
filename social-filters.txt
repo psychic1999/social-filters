@@ -8,6 +8,7 @@
 ##.comment
 ##.post__comments
 ###comment_box
+###comments-section
 ||disqus.com/embed/comments/^$all
 
 !! 1337x
@@ -39,6 +40,13 @@ www.crunchyroll.com##.erc-watch-premium-upsell
 www.crunchyroll.com##.episode-actions
 www.crunchyroll.com##.erc-anonymous-user-menu
 www.crunchyroll.com##.shell-header
+
+!! douban
+movie.douban.com###reviews-wrapper
+movie.douban.com##.section-discussion
+movie.douban.com##.aside
+movie.douban.com###interest_sectl
+movie.douban.com##.subject-rate
 
 !! duckduckgo
 duckduckgo.com##.module--carousel-videos

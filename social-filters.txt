@@ -12,9 +12,9 @@
 ||disqus.com/embed/comments/^$all
 
 !! blocked sites
-||douban.com^$all
-||reddit.com^$all
-||twitter.com^$all
+douban.com
+reddit.com
+twitter.com
 
 !! 1337x
 1337x.to##[href="#comments"]

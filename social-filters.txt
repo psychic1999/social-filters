@@ -11,6 +11,11 @@
 ###comments-section
 ||disqus.com/embed/comments/^$all
 
+!! blocked sites
+douban.com
+reddit.com
+twitter.com
+
 !! 1337x
 1337x.to##[href="#comments"]
 1337x.to##[href="/cat/Apps/1/"]
@@ -40,9 +45,6 @@ www.crunchyroll.com##.erc-watch-premium-upsell
 www.crunchyroll.com##.episode-actions
 www.crunchyroll.com##.erc-anonymous-user-menu
 www.crunchyroll.com##.shell-header
-
-!! douban
-douban.com
 
 !! duckduckgo
 duckduckgo.com##.module--carousel-videos

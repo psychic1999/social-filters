@@ -42,11 +42,7 @@ www.crunchyroll.com##.erc-anonymous-user-menu
 www.crunchyroll.com##.shell-header
 
 !! douban
-movie.douban.com###reviews-wrapper
-movie.douban.com##.section-discussion
-movie.douban.com##.aside
-movie.douban.com###interest_sectl
-movie.douban.com##.subject-rate
+douban.com
 
 !! duckduckgo
 duckduckgo.com##.module--carousel-videos

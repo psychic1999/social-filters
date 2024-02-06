@@ -51,7 +51,7 @@ duckduckgo.com##.text_promo
 duckduckgo.com###features
 
 !! imdb/tmdb
-imdb.com##.ipc-page-section:has-text(User reviews)
+imdb.com##.ipc-page-section:has(.ipc-title__wrapper:has-text(User reviews))
 imdb.com##.rating-bar__base-button:has-text(IMDb RATING)
 imdb.com##.ipc-inline-list__item:has-text(User reviews)
 www.themoviedb.org##.social_panel

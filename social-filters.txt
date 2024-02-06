@@ -6,10 +6,16 @@
 ###comments
 ##.comments
 ##.comment
-##.post__comments
-###comment_box
-###comments-section
+! rogerebert
 ||disqus.com/embed/comments/^$all
+! kemono
+##.post__comments
+! qq
+###comment_box
+! douban
+###comments-section
+! variety
+###comments-loaded
 
 !! 1337x
 1337x.to##[href="#comments"]

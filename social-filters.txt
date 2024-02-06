@@ -67,9 +67,9 @@ letterboxd.com###recently-liked-lists
 letterboxd.com###live-feed
 letterboxd.com###most-active
 letterboxd.com##.ratings-histogram-chart
-letterboxd.com##section.section:has([href="/lists/popular/this/week/"])
-letterboxd.com##section.section:has([href="/reviewers/popular/this/week/"])
-letterboxd.com##section.section:has([href="/showdown/"])
+letterboxd.com##.section:has([href="/lists/popular/this/week/"])
+letterboxd.com##.section:has([href="/reviewers/popular/this/week/"])
+letterboxd.com##.section:has([href="/showdown/"])
 letterboxd.com##.film-stats
 letterboxd.com##.person-table
 letterboxd.com##.watch-panel

@@ -11,11 +11,6 @@
 ###comments-section
 ||disqus.com/embed/comments/^$all
 
-!! blocked sites
-douban.com
-reddit.com
-twitter.com
-
 !! 1337x
 1337x.to##[href="#comments"]
 1337x.to##[href="/cat/Apps/1/"]
@@ -99,9 +94,11 @@ www.nytimes.com###comments-speech-bubble-footer
 
 !! spotify
 ! desktop
-open.spotify.com##.encore-inverted-light-set:has-text(Explore Premium)
-open.spotify.com##.encore-over-media-set:has-text(Install App)
+open.spotify.com##.encore-inverted-light-set:has-text(Premium)
+open.spotify.com##.encore-over-media-set:has-text(App)
 open.spotify.com##.main-view-container__mh-footer-container
+open.spotify.com##li:has-text(Premium)
+open.spotify.com##li:has-text(Download)
 ! mobile
 open.spotify.com##.encore-inverted-light-set:has-text(Get the app)
 open.spotify.com##.encore-inverted-light-set:has-text(App)

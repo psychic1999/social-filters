@@ -101,8 +101,6 @@ www.nytimes.com###comments-speech-bubble-footer
 ! desktop
 open.spotify.com##.encore-inverted-light-set:has-text(Explore Premium)
 open.spotify.com##.encore-over-media-set:has-text(Install App)
-open.spotify.com##li:has-text(Premium)
-open.spotify.com##li:has-text(Download)
 open.spotify.com##.main-view-container__mh-footer-container
 ! mobile
 open.spotify.com##.encore-inverted-light-set:has-text(Get the app)

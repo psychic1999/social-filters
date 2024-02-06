@@ -53,7 +53,7 @@ duckduckgo.com###features
 !! imdb/tmdb
 imdb.com##section.celwidget.ipc-page-section--base.ipc-page-section:has-text(User reviews)
 imdb.com##.rating-bar__base-button:has-text(IMDb RATING)
-imdb.com##li.ipc-inline-list__item:has-text(User reviews)
+imdb.com##.ipc-inline-list__item:has-text(User reviews)
 www.themoviedb.org##.social_panel
 
 !! letterboxd

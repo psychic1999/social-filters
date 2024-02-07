@@ -2,13 +2,28 @@
 ! Expires: 12 hours
 ! Homepage: https://github.com/psychic1999/social-filters
 
+!! baidu
+baike.baidu.com##.BK-after-content-wrapper
+baike.baidu.com###J-lemma-videos
+baike.baidu.com##.tashuo-button-fixed
+baike.baidu.com###J-bottom-tashuo
+baike.baidu.com###J-lemma-video-list
+baike.baidu.com###J-right-tashuo
+baike.baidu.com##.z-index-fixed-content
+baike.baidu.com##.full-screen-second_prestrain
+baike.baidu.com##.floatTashuo-list-wrapper
+
 ！bilibili
 bilibili.com
-! douban
-###comments-section
-! qq
-###comment_box
+
 ! douban
 ###comments-section
 douban.com
 
+! qq
+###comment_box
+
+!! xunlei
+pan.xunlei.com##.client-download
+pan.xunlei.com##.openMobileXunlei
+pan.xunlei.com##.aside-bottom__act-bar

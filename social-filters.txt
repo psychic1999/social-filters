@@ -94,6 +94,9 @@ www.nytimes.com###comments-speech-bubble-inStoryMasthead
 www.nytimes.com###comments-speech-bubble-bigBottom
 www.nytimes.com###comments-speech-bubble-footer
 
+!! reddit
+www.reddit.com##activate-feature
+
 !! spotify
 ! desktop
 open.spotify.com##.encore-inverted-light-set:has-text(Premium)

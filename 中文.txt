@@ -13,14 +13,14 @@ baike.baidu.com##.z-index-fixed-content
 baike.baidu.com##.full-screen-second_prestrain
 baike.baidu.com##.floatTashuo-list-wrapper
 
-！bilibili
+!！bilibili
 bilibili.com
 
-! douban
+!! douban
 ###comments-section
 douban.com
 
-! qq
+!! qq
 ###comment_box
 
 !! xunlei

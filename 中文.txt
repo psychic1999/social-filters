@@ -2,5 +2,13 @@
 ! Expires: 12 hours
 ! Homepage: https://github.com/psychic1999/social-filters
 
-douban.com
+！bilibili
 bilibili.com
+! douban
+###comments-section
+! qq
+###comment_box
+! douban
+###comments-section
+douban.com
+

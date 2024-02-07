@@ -1,0 +1,6 @@
+! Title: Personal filters-中文
+! Expires: 12 hours
+! Homepage: https://github.com/psychic1999/social-filters
+
+douban.com
+bilibili.com

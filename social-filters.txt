@@ -1,4 +1,4 @@
-! Title: Social Filters
+! Title: Personal filters
 ! Expires: 12 hours
 ! Homepage: https://github.com/psychic1999/social-filters
 

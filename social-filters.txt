@@ -84,7 +84,7 @@ www.nytimes.com###comments-speech-bubble-bigBottom
 www.nytimes.com###comments-speech-bubble-footer
 
 !! reddit
-www.reddit.com##activate-feature
+reddit.com
 
 !! spotify
 ! desktop
@@ -98,6 +98,10 @@ open.spotify.com##.encore-inverted-light-set:has-text(Get the app)
 open.spotify.com##.encore-inverted-light-set:has-text(App)
 open.spotify.com##button:has-text(Premium)
 open.spotify.com##button:has-text(Download)
+
+!! twitter
+twitter.com
+x.com
 
 !! webtor
 webtor.io##.donate

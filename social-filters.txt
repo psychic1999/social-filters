@@ -106,8 +106,3 @@ webtor.io##.badges
 webtor.io##.btn-group:has-text(Donate)
 webtor.io##.faq
 webtor.io##.features
-
-!! xunlei
-pan.xunlei.com##.client-download
-pan.xunlei.com##.openMobileXunlei
-pan.xunlei.com##.aside-bottom__act-bar

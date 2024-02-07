@@ -17,9 +17,9 @@ baike.baidu.com##.floatTashuo-list-wrapper
 bilibili.com
 
 !! douban
+douban.com
 ###comments-section
 pianyuan.org##li:has-text(豆瓣)
-douban.com
 
 !! qq
 ###comment_box

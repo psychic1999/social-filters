@@ -19,17 +19,6 @@
 1337x.to##[href="/cat/Games/1/"]
 1337x.to##[href="/cat/XXX/1/"]
 
-!! baidu
-baike.baidu.com##.BK-after-content-wrapper
-baike.baidu.com###J-lemma-videos
-baike.baidu.com##.tashuo-button-fixed
-baike.baidu.com###J-bottom-tashuo
-baike.baidu.com###J-lemma-video-list
-baike.baidu.com###J-right-tashuo
-baike.baidu.com##.z-index-fixed-content
-baike.baidu.com##.full-screen-second_prestrain
-baike.baidu.com##.floatTashuo-list-wrapper
-
 !! crunchyroll
 www.crunchyroll.com##.erc-commenting-section
 www.crunchyroll.com##.series-ratings

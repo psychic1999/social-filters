@@ -14,6 +14,8 @@ baike.baidu.com##.full-screen-second_prestrain
 baike.baidu.com##.floatTashuo-list-wrapper
 baike.baidu.com##.lemma-card-bottom
 baike.baidu.com##.star-flower-loft
+baike.baidu.com##.J-news-container
+baike.baidu.com##.J-content-video-container
 
 !! bilibili
 bilibili.com

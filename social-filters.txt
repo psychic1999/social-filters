@@ -98,6 +98,7 @@ open.spotify.com##.encore-inverted-light-set:has-text(Get the app)
 open.spotify.com##.encore-inverted-light-set:has-text(App)
 open.spotify.com##button:has-text(Premium)
 open.spotify.com##button:has-text(Download)
+open.spotify.com##a:has-text(Get App)
 
 !! twitter
 twitter.com

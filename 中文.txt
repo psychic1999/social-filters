@@ -12,6 +12,8 @@ baike.baidu.com###J-right-tashuo
 baike.baidu.com##.z-index-fixed-content
 baike.baidu.com##.full-screen-second_prestrain
 baike.baidu.com##.floatTashuo-list-wrapper
+baike.baidu.com##.lemma-card-bottom
+baike.baidu.com##.star-flower-loft
 
 !! bilibili
 bilibili.com

@@ -16,6 +16,7 @@ baike.baidu.com##.lemma-card-bottom
 baike.baidu.com##.star-flower-loft
 baike.baidu.com##.J-news-container
 baike.baidu.com##.J-content-video-container
+baike.baidu.com###J-tashuo-button-fixed
 
 !! bilibili
 bilibili.com

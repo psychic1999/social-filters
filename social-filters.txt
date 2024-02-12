@@ -85,7 +85,7 @@ www.nytimes.com###comments-speech-bubble-bigBottom
 www.nytimes.com###comments-speech-bubble-footer
 
 !! reddit
-reddit.com
+www.reddit.com###navbar-menu-button
 
 !! spotify
 ! desktop

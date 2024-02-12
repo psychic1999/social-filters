@@ -70,6 +70,7 @@ letterboxd.com##.main-nav-people.navitem
 !! nationalgeographic
 www.nationalgeographic.com##.PaywallModal
 www.nationalgeographic.com##.Slider
+www.nationalgeographic.com##.AlertBanner
 
 !! nofilmschool
 nofilmschool.com##.postpage-bottomcontent

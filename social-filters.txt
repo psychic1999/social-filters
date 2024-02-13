@@ -40,6 +40,7 @@ duckduckgo.com##.js-result-image-wrapper
 duckduckgo.com##.related-searches
 duckduckgo.com##.text_promo
 duckduckgo.com###features
+duckduckgo.com##.result--news:has(a[href*="msn.com"])
 
 !! imdb/tmdb
 imdb.com##.ipc-page-section:has(.ipc-title__wrapper:has-text(User reviews))

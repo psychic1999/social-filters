@@ -88,6 +88,8 @@ www.nytimes.com###comments-speech-bubble-footer
 
 !! reddit
 www.reddit.com##.object-cover
+www.reddit.com###comment-tree
+www.reddit.com###right-sidebar-container
 
 !! spotify
 ! desktop

@@ -26,6 +26,9 @@ www.crunchyroll.com##.episode-actions
 www.crunchyroll.com##.erc-anonymous-user-menu
 www.crunchyroll.com##.shell-header
 
+!! disqus
+||disqus.com/embed/comments/^$all
+
 !! duckduckgo
 duckduckgo.com##.module--carousel-videos
 duckduckgo.com##.module--carousel-news
@@ -44,7 +47,7 @@ imdb.com##.ipc-inline-list__item:has-text(User reviews)
 www.themoviedb.org##.social_panel
 
 !! kemono
-##.post__comments
+kemono.su##.post__comments
 
 !! letterboxd
 letterboxd.com###film-popular-lists
@@ -82,9 +85,6 @@ www.nytimes.com###comments-speech-bubble-header
 www.nytimes.com###comments-speech-bubble-inStoryMasthead
 www.nytimes.com###comments-speech-bubble-bigBottom
 www.nytimes.com###comments-speech-bubble-footer
-
-!! rogerebert
-||disqus.com/embed/comments/^$all
 
 !! reddit
 www.reddit.com##.object-cover

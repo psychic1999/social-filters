@@ -6,12 +6,6 @@
 ###comments
 ##.comments
 ##.comment
-! rogerebert
-||disqus.com/embed/comments/^$all
-! kemono
-##.post__comments
-! variety
-###comments-loaded
 
 !! 1337x
 1337x.to##[href="#comments"]
@@ -49,6 +43,9 @@ imdb.com##.rating-bar__base-button:has-text(IMDb RATING)
 imdb.com##.ipc-inline-list__item:has-text(User reviews)
 www.themoviedb.org##.social_panel
 
+!! kemono
+##.post__comments
+
 !! letterboxd
 letterboxd.com###film-popular-lists
 letterboxd.com###popular-lists
@@ -85,6 +82,9 @@ www.nytimes.com###comments-speech-bubble-header
 www.nytimes.com###comments-speech-bubble-inStoryMasthead
 www.nytimes.com###comments-speech-bubble-bigBottom
 www.nytimes.com###comments-speech-bubble-footer
+
+!! rogerebert
+||disqus.com/embed/comments/^$all
 
 !! reddit
 www.reddit.com##.object-cover

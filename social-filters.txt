@@ -90,6 +90,7 @@ www.nytimes.com###comments-speech-bubble-footer
 !! pornhub
 www.pornhub.com##.videoWrapper:has(.channel-icon)
 www.pornhub.com##.videoblock:has(.channel-icon)
+www.pornhub.com##.emailVerHomepageContainer
 
 !! reddit
 www.reddit.com##.object-cover

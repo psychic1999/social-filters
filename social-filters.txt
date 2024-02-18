@@ -126,3 +126,160 @@ webtor.io##.features
 pan.xunlei.com##.client-download
 pan.xunlei.com##.openMobileXunlei
 pan.xunlei.com##.aside-bottom__act-bar
+
+!!! youtube
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! buttons
+www.youtube.com###sponsor-button
+www.youtube.com###voice-search-button
+www.youtube.com##ytd-download-button-renderer
+www.youtube.com##ytd-notification-topbar-button-renderer
+m.youtube.com##.mobile-topbar-header-voice-search-button
+
+!! channel page
+! about
+www.youtube.com###channel-header-links
+www.youtube.com###links-section
+m.youtube.com##.c4-tabbed-header-page-header-links
+m.youtube.com##.about-channel-section:has(.about-channel-new-links-container)
+m.youtube.com##.about-channel-action-button-container
+! tab
+youtube.com##yt-tab-shape[tab-title="Store"]
+youtube.com##yt-tab-shape[tab-title="Community"]
+! shelves
+youtube.com##.ytd-recognition-shelf-renderer
+youtube.com##ytd-shelf-renderer:has(.badge-style-type-members-only)
+youtube.com##ytd-shelf-renderer:has(ytd-grid-channel-renderer)
+youtube.com##ytd-shelf-renderer:has(ytd-channel-renderer):has(.grid-subheader:not(:has(>#title-container[hidden])))
+m.youtube.com##ytm-shelf-renderer:has(ytm-compact-channel-renderer)
+m.youtube.com##ytm-shelf-renderer:has(ytm-metadata-badge-renderer:has-text(Members only))
+! trailer
+www.youtube.com##ytd-expander
+
+!! comments
+www.youtube.com###comments
+m.youtube.com##ytm-item-section-renderer:has(.comments-entry-point-header)
+
+!! home
+www.youtube.com##ytd-feed-nudge-renderer
+m.youtube.com##.feed-nudge-wrapper
+m.youtube.com##.search-bar-entry-point-voice-search-button
+m.youtube.com##.search-bar-entry-point-top-image
+m.youtube.com##.search-bar-entry-point-more-drawer-button
+
+!! images
+! thumbnail
+www.youtube.com##ytd-thumbnail
+www.youtube.com###thumbnail-container
+www.youtube.com##ytd-playlist-thumbnail
+m.youtube.com##.compact-media-item-image
+m.youtube.com##.media-item-thumbnail-container
+! ghost-cards
+www.youtube.com###ghost-cards
+www.youtube.com###masthead-skeleton-icons
+www.youtube.com##.watch-skeleton
+m.youtube.com##.compact-channel-renderer-ghost-card
+m.youtube.com##.video-with-context-renderer-ghost-card
+m.youtube.com##.media-item-headline-placeholder
+m.youtube.com##.media-item-subhead-placeholder
+m.youtube.com##.media-icon
+
+!! misc.
+www.youtube.com###footer
+www.youtube.com###description-text
+www.youtube.com##ytd-menu-service-item-download-renderer
+
+!! play
+! player
+www.youtube.com##.ytp-prev-button
+www.youtube.com##.ytp-next-button
+www.youtube.com##.ytp-chrome-top-buttons
+www.youtube.com##.ytp-miniplayer-button
+www.youtube.com##.videowall-endscreen
+www.youtube.com##.ytp-ce-element
+youtube.com##.ytp-quality-menu .ytp-menuitem:has(.ytp-premium-label)
+youtube.com##button.ytp-button[data-tooltip-target-id=ytp-autonav-toggle-button]
+m.youtube.com##.ytm-autonav-toggle-button-container
+! description box
+www.youtube.com##ytd-merch-shelf-renderer
+www.youtube.com##ytd-video-description-infocards-section-renderer
+www.youtube.com###structured-description ytd-horizontal-card-list-renderer:not(:has(ytd-video-attribute-view-model))
+youtube.com##a[href^="/hashtag/"]
+www.youtube.com##[href*="/feed/trending"]
+m.youtube.com##ytm-video-description-infocards-section-renderer
+m.youtube.com##.macromarker:upward(ytm-horizontal-card-list-renderer):not(:has(.video-attribute-card-shelf))
+! below description box
+youtube.com##.ytd-rich-metadata-row-renderer[component-style=RICH_METADATA_RENDERER_STYLE_TOPIC]
+youtube.com##.ytd-rich-metadata-row-renderer[component-style=RICH_METADATA_RENDERER_STYLE_BOX_ART]
+m.youtube.com##ytm-compact-autoplay-renderer
+m.youtube.com##ytm-watch .adaptive-feed-item
+
+!! recommendations
+www.youtube.com###related
+m.youtube.com##ytm-watch ytm-item-section-renderer[data-content-type="related"]
+
+!! search
+! about the results
+www.youtube.com###about-these-results
+m.youtube.com##ytm-info-panel-container-renderer
+! Movies,TVs
+www.youtube.com##ytd-movie-renderer
+m.youtube.com##ytm-compact-show-renderer
+m.youtube.com##ytm-video-with-context-renderer:has(ytm-badge-supported-renderer:has-text(Preview only))
+m.youtube.com##ytm-video-with-context-renderer:has(ytm-badge-supported-renderer:has-text(Pre-order))
+m.youtube.com##ytm-video-with-context-renderer:has(ytm-badge-supported-renderer:has-text(Not available))
+m.youtube.com##ytm-video-with-context-renderer:has(ytm-badge-supported-renderer:has-text(Free with ads))
+! search results
+www.youtube.com##ytd-radio-renderer
+www.youtube.com##ytd-search ytd-item-section-renderer ytd-shelf-renderer
+www.youtube.com##ytd-search ytd-item-section-renderer ytd-horizontal-card-list-renderer
+m.youtube.com##ytm-universal-watch-card-renderer
+m.youtube.com##ytm-compact-radio-renderer
+m.youtube.com##ytm-video-with-context-renderer:has(ytm-badge-supported-renderer:has-text(Related))
+m.youtube.com##ytm-product-card-renderer
+! interface
+www.youtube.com##.metadata-snippet-container
+www.youtube.com##.metadata-snippet-container-one-line
+www.youtube.com###expandable-metadata
+www.youtube.com###chip-bar
+m.youtube.com##.searchbox-voice-search-wrapper
+
+!! shorts
+! player
+www.youtube.com##ytd-reel-player-overlay-renderer
+www.youtube.com##ytd-reel-video-renderer~ytd-reel-video-renderer:matches-path(/shorts/)
+m.youtube.com##ytm-reel-player-overlay-renderer
+m.youtube.com##.logo-in-player-endpoint
+! shelves
+www.youtube.com##ytd-reel-shelf-renderer
+www.youtube.com##ytd-rich-shelf-renderer[is-shorts]
+m.youtube.com##ytm-reel-shelf-renderer
+! sidebar
+www.youtube.com##ytd-guide-entry-renderer:has-text(Shorts)
+www.youtube.com##ytd-mini-guide-entry-renderer:has-text(Shorts)
+m.youtube.com##ytm-pivot-bar-item-renderer:has(.pivot-shorts)
+m.youtube.com##.pivot-bar-fallback-item.shorts
+! videos
+www.youtube.com##ytd-search .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
+m.youtube.com##ytm-search ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-compact-video-renderer,ytm-video-with-context-renderer)
+
+!! trending
+www.youtube.com##ytd-shelf-renderer:has(.badge-style-type-featured)
+www.youtube.com##a.ytd-guide-entry-renderer[href^="/feed/trending"]:upward(ytd-guide-section-renderer)
+m.youtube.com##.vertical-shelf-separators:has(.shelf-featured-badge)
+
+!! YT trash remover
+www.youtube.com##ytd-search ytd-video-renderer:has(#channel-name:has-text(/\brecap\b/i))
+www.youtube.com##ytd-search ytd-channel-renderer:has(#channel-title:has-text(/\brecap\b/i))
+m.youtube.com##ytm-search ytm-video-with-context-renderer:has(ytm-badge-and-byline-renderer:has-text(/\brecap\b/i))
+m.youtube.com##ytm-search .compact-channel-feed-item:has(.compact-media-item-headline:has-text(/\brecap\b/i))
+www.youtube.com##ytd-search ytd-video-renderer:has(#channel-name:has-text(/\brecaps\b/i))
+www.youtube.com##ytd-search ytd-channel-renderer:has(#channel-title:has-text(/\brecaps\b/i))
+m.youtube.com##ytm-search ytm-video-with-context-renderer:has(ytm-badge-and-byline-renderer:has-text(/\brecaps\b/i))
+m.youtube.com##ytm-search .compact-channel-feed-item:has(.compact-media-item-headline:has-text(/\brecaps\b/i))
+www.youtube.com##ytd-search ytd-video-renderer:has(#channel-name:has-text(/\brecapped\b/i))
+www.youtube.com##ytd-search ytd-channel-renderer:has(#channel-title:has-text(/\brecapped\b/i))
+m.youtube.com##ytm-search ytm-video-with-context-renderer:has(ytm-badge-and-byline-renderer:has-text(/\brecapped\b/i))
+m.youtube.com##ytm-search .compact-channel-feed-item:has(.compact-media-item-headline:has-text(/\brecapped\b/i))
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

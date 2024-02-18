@@ -165,7 +165,6 @@ m.youtube.com##ytm-item-section-renderer:has(.comments-entry-point-header)
 www.youtube.com##ytd-feed-nudge-renderer
 m.youtube.com##.feed-nudge-wrapper
 m.youtube.com##.search-bar-entry-point-voice-search-button
-m.youtube.com##.search-bar-entry-point-top-image
 m.youtube.com##.search-bar-entry-point-more-drawer-button
 
 !! images

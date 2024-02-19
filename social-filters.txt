@@ -159,6 +159,7 @@ www.youtube.com##ytd-expander
 
 !! comments
 www.youtube.com###comments
+www.youtube.com###chat-container
 m.youtube.com##ytm-item-section-renderer:has(.comments-entry-point-header)
 
 !! home

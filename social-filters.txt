@@ -8,12 +8,6 @@
 ###comment
 ##.comment
 
-!! 1337x
-1337x.to##[href="#comments"]
-1337x.to##[href="/cat/Apps/1/"]
-1337x.to##[href="/cat/Games/1/"]
-1337x.to##[href="/cat/XXX/1/"]
-
 !! crunchyroll
 www.crunchyroll.com##.erc-commenting-section
 www.crunchyroll.com##.series-ratings

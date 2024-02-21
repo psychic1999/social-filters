@@ -269,7 +269,7 @@ m.youtube.com##.c4-tabbed-header-page-header-buttons-extra-padding
 
 !! trending
 www.youtube.com##ytd-shelf-renderer:has(.badge-style-type-featured)
-www.youtube.com##a.ytd-guide-entry-renderer[href^="/feed/trending"]:upward(ytd-guide-section-renderer)
+www.youtube.com##ytd-guide-section-renderer:nth-of-type(2)
 m.youtube.com##.vertical-shelf-separators:has(.shelf-featured-badge)
 
 !! YT trash remover

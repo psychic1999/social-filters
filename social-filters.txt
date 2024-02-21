@@ -122,7 +122,6 @@ pan.xunlei.com##.openMobileXunlei
 pan.xunlei.com##.aside-bottom__act-bar
 
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!! youtube
 !! buttons
 www.youtube.com###sponsor-button
@@ -286,4 +285,4 @@ www.youtube.com##ytd-search ytd-channel-renderer:has(#channel-title:has-text(/\b
 m.youtube.com##ytm-search ytm-video-with-context-renderer:has(ytm-badge-and-byline-renderer:has-text(/\brecapped\b/i))
 m.youtube.com##ytm-search .compact-channel-feed-item:has(.compact-media-item-headline:has-text(/\brecapped\b/i))
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+

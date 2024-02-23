@@ -168,6 +168,7 @@ www.youtube.com###thumbnail-container
 www.youtube.com##ytd-playlist-thumbnail
 m.youtube.com##.compact-media-item-image
 m.youtube.com##.media-item-thumbnail-container
+m.youtube.com##.video-thumbnail-container-large
 ! ghost-cards
 www.youtube.com###ghost-cards
 www.youtube.com###masthead-skeleton-icons

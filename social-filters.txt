@@ -250,7 +250,7 @@ www.youtube.com##ytd-reel-shelf-renderer
 www.youtube.com##ytd-rich-shelf-renderer[is-shorts]
 m.youtube.com##ytm-reel-shelf-renderer
 ! sidebar
-www.youtube.com##ytd-guide-entry-renderer:nth-of-type(2)
+www.youtube.com##ytd-guide-renderer a.yt-simple-endpoint path[d^="M10 14.65v-5.3L15 12l-5 2.65zm7.77-4.33"]:upward(ytd-guide-entry-renderer)
 www.youtube.com##ytd-mini-guide-entry-renderer:nth-of-type(2)
 m.youtube.com##ytm-pivot-bar-item-renderer:has(.pivot-shorts)
 m.youtube.com##.pivot-bar-fallback-item.shorts

@@ -258,15 +258,6 @@ m.youtube.com##.pivot-bar-fallback-item.shorts
 www.youtube.com##ytd-search .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
 m.youtube.com##ytm-search ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-compact-video-renderer,ytm-video-with-context-renderer)
 
-!! subscriptions
-www.youtube.com##ytd-subscribe-button-renderer
-www.youtube.com##ytd-guide-entry-renderer:nth-of-type(3)
-www.youtube.com##ytd-mini-guide-entry-renderer:nth-of-type(3)
-m.youtube.com##ytm-pivot-bar-item-renderer:has(.pivot-subs)
-m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
-m.youtube.com##.is-not-subscribed
-m.youtube.com##.c4-tabbed-header-page-header-buttons-extra-padding
-
 !! trending
 www.youtube.com##ytd-shelf-renderer:has(.badge-style-type-featured)
 www.youtube.com##ytd-guide-section-renderer:nth-of-type(2)

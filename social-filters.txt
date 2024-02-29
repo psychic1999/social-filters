@@ -254,6 +254,9 @@ m.youtube.com##.pivot-bar-fallback-item.shorts
 www.youtube.com##ytd-search .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
 m.youtube.com##ytm-search ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-compact-video-renderer,ytm-video-with-context-renderer)
 
+!! subscribe
+m.youtube.com##.is-not-subscribed
+
 !! trending
 www.youtube.com##ytd-shelf-renderer:has(.badge-style-type-featured)
 www.youtube.com##a.ytd-guide-entry-renderer[href^="/feed/trending"]:upward(ytd-guide-section-renderer)

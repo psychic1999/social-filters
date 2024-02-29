@@ -257,6 +257,7 @@ m.youtube.com##ytm-search ytm-thumbnail-overlay-time-status-renderer[data-style=
 !! subscribe
 www.youtube.com##ytd-subscribe-button-renderer
 m.youtube.com##.is-not-subscribed
+m.youtube.com##.c4-tabbed-header-page-header-buttons-extra-padding
 
 !! trending
 www.youtube.com##ytd-shelf-renderer:has(.badge-style-type-featured)

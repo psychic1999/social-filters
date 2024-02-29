@@ -255,6 +255,7 @@ www.youtube.com##ytd-search .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-re
 m.youtube.com##ytm-search ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-compact-video-renderer,ytm-video-with-context-renderer)
 
 !! subscribe
+www.youtube.com##ytd-subscribe-button-renderer
 m.youtube.com##.is-not-subscribed
 
 !! trending

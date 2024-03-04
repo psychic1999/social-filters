@@ -153,9 +153,7 @@ m.youtube.com##ytm-item-section-renderer:has(.comments-entry-point-header)
 
 !! home
 www.youtube.com##ytd-feed-nudge-renderer
-m.youtube.com##.feed-nudge-wrapper
-m.youtube.com##.search-bar-entry-point-voice-search-button
-m.youtube.com##.search-bar-entry-point-more-drawer-button
+m.youtube.com##ytm-browse div[tab-identifier="FEwhat_to_watch"]
 
 !! images
 ! thumbnail

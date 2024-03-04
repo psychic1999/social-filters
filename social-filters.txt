@@ -152,7 +152,7 @@ www.youtube.com###chat-container
 m.youtube.com##ytm-item-section-renderer:has(.comments-entry-point-header)
 
 !! home
-www.youtube.com##ytd-feed-nudge-renderer
+www.youtube.com##ytd-browse[page-subtype="home"]
 m.youtube.com##ytm-browse div[tab-identifier="FEwhat_to_watch"]
 
 !! images

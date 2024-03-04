@@ -170,6 +170,7 @@ www.youtube.com###masthead-skeleton-icons
 www.youtube.com##.watch-skeleton
 m.youtube.com##.compact-channel-renderer-ghost-card
 m.youtube.com##.video-with-context-renderer-ghost-card
+m.youtube.com##.compact-video-renderer-ghost-card
 m.youtube.com##.media-item-headline-placeholder
 m.youtube.com##.media-item-subhead-placeholder
 m.youtube.com##.media-icon

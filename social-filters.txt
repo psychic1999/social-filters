@@ -252,11 +252,6 @@ m.youtube.com##.pivot-bar-fallback-item.shorts
 www.youtube.com##ytd-search .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
 m.youtube.com##ytm-search ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-compact-video-renderer,ytm-video-with-context-renderer)
 
-!! subscribe
-www.youtube.com##ytd-subscribe-button-renderer
-m.youtube.com##.is-not-subscribed
-m.youtube.com##.c4-tabbed-header-page-header-buttons-extra-padding
-
 !! trending
 www.youtube.com##ytd-shelf-renderer:has(.badge-style-type-featured)
 www.youtube.com##a.ytd-guide-entry-renderer[href^="/feed/trending"]:upward(ytd-guide-section-renderer)

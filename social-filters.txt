@@ -100,6 +100,14 @@ open.spotify.com##.main-view-container__mh-footer-container
 open.spotify.com##a:has-text(Get App)
 open.spotify.com##a:has-text(Your Library)
 
+!! taobao
+m.taobao.com###tcodeSideBar
+main.m.taobao.com##.recommend-container
+main.m.taobao.com##.signIn
+main.m.taobao.com##.banner-wrapper
+main.m.taobao.com##.moss-wrapper
+main.m.taobao.com##.icons-wrapper
+
 !! twitter
 twitter.com
 x.com

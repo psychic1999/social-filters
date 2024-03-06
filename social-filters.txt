@@ -35,7 +35,7 @@ duckduckgo.com###features
 duckduckgo.com##.result--news:has(a[href*="msn.com"])
 duckduckgo.com##.result--news:has(a[href*="yahoo.com"])
 
-!! imdb/tmdb
+!!! imdb/tmdb
 imdb.com##.ipc-page-section:has(.ipc-title__wrapper:has-text(User reviews))
 imdb.com##.rating-bar__base-button:has-text(IMDb RATING)
 imdb.com##.ipc-inline-list__item:has-text(User reviews)

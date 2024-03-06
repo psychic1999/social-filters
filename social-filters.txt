@@ -2,13 +2,13 @@
 ! Expires: 12 hours
 ! Homepage: https://github.com/psychic1999/social-filters
 
-!! comments
+!!! comments
 ###comments
 ##.comments
 ###comment
 ##.comment
 
-!! crunchyroll
+!!! crunchyroll
 www.crunchyroll.com##.erc-commenting-section
 www.crunchyroll.com##.series-ratings
 www.crunchyroll.com##.series-reviews-section
@@ -21,10 +21,10 @@ www.crunchyroll.com##.episode-actions
 www.crunchyroll.com##.erc-anonymous-user-menu
 www.crunchyroll.com##.shell-header
 
-!! disqus
+!!! disqus
 ||disqus.com/embed/comments/^$all
 
-!! duckduckgo
+!!! duckduckgo
 duckduckgo.com##.module--carousel-videos
 duckduckgo.com##.module--carousel-news
 duckduckgo.com##.tile__media
@@ -41,10 +41,10 @@ imdb.com##.rating-bar__base-button:has-text(IMDb RATING)
 imdb.com##.ipc-inline-list__item:has-text(User reviews)
 www.themoviedb.org##.social_panel
 
-!! kemono
+!!! kemono
 kemono.su##.post__comments
 
-!! letterboxd
+!!! letterboxd
 letterboxd.com###film-popular-lists
 letterboxd.com###popular-lists
 letterboxd.com###popular-reviews
@@ -64,43 +64,43 @@ letterboxd.com##.watch-panel
 letterboxd.com##[href^="/pro/"]
 letterboxd.com##.main-nav-people.navitem
 
-!! nationalgeographic
+!!! nationalgeographic
 www.nationalgeographic.com##.PaywallModal
 www.nationalgeographic.com##.Slider
 www.nationalgeographic.com##.AlertBanner
 
-!! nofilmschool
+!!! nofilmschool
 nofilmschool.com##.postpage-bottomcontent
 nofilmschool.com##.postpage__sideCol
 nofilmschool.com##.fbcomments
 nofilmschool.com##.topbanner
 
-!! nytimes
+!!! nytimes
 www.nytimes.com###comments-speech-bubble-header
 www.nytimes.com###comments-speech-bubble-inStoryMasthead
 www.nytimes.com###comments-speech-bubble-bigBottom
 www.nytimes.com###comments-speech-bubble-footer
 
-!! pornhub
+!!! pornhub
 www.pornhub.com##.videoWrapper:has(.channel-icon)
 www.pornhub.com##.videoblock:has(.channel-icon)
 www.pornhub.com##.emailVerHomepageContainer
 
-!! reddit
+!!! reddit
 www.reddit.com##.object-cover
 www.reddit.com###comment-tree
 www.reddit.com###right-sidebar-container
 
-!! spotify
-! desktop
+!!! spotify
+!! desktop
 open.spotify.com##.encore-inverted-light-set:has-text(Premium)
 open.spotify.com##.encore-over-media-set:has-text(App)
 open.spotify.com##.main-view-container__mh-footer-container
-! mobile
+!! mobile
 open.spotify.com##a:has-text(Get App)
 open.spotify.com##a:has-text(Your Library)
 
-!! taobao
+!!! taobao
 www.taobao.com##.tb-recommend
 i.taobao.com##.m-guess-you-like
 i.taobao.com##.m-someone-like-you
@@ -111,11 +111,11 @@ main.m.taobao.com##.banner-wrapper
 main.m.taobao.com##.moss-wrapper
 main.m.taobao.com##.icons-wrapper
 
-!! twitter
+!!! twitter
 twitter.com
 x.com
 
-!! webtor
+!!! webtor
 webtor.io##.donate
 webtor.io##.login
 webtor.io##.badges
@@ -123,7 +123,7 @@ webtor.io##.btn-group:has-text(Donate)
 webtor.io##.faq
 webtor.io##.features
 
-!! xunlei
+!!! xunlei
 pan.xunlei.com##.client-download
 pan.xunlei.com##.openMobileXunlei
 pan.xunlei.com##.aside-bottom__act-bar

@@ -9,6 +9,12 @@ baike.baidu.com###J-right-tashuo
 baike.baidu.com##.z-index-fixed-content
 baike.baidu.com###J-bottom-tashuo
 baike.baidu.com##.fadeIn
+!!! mobile
+baike.baidu.com##.lemma-card-bottom
+baike.baidu.com##.lemma-head-icons
+baike.baidu.com##.J-content-video-container
+baike.baidu.com##.floatTashuo-list-wrapper
+baike.baidu.com##.BK-after-content-wrapper
 
 !!! bilibili
 www.bilibili.com##.recommended-container_floor-aside

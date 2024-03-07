@@ -9,7 +9,7 @@ baike.baidu.com###J-right-tashuo
 baike.baidu.com##.z-index-fixed-content
 baike.baidu.com###J-bottom-tashuo
 baike.baidu.com##.fadeIn
-!!! mobile
+!! mobile
 baike.baidu.com##.lemma-card-bottom
 baike.baidu.com##.lemma-head-icons
 baike.baidu.com##.J-content-video-container

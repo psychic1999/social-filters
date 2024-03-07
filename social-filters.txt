@@ -4,6 +4,7 @@
 
 !!! bilibili
 m.bilibili.com##.m-home
+m.bilibili.com##.related-fit
 
 !!! comments
 ###comments

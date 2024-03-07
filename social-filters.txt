@@ -2,6 +2,14 @@
 ! Expires: 12 hours
 ! Homepage: https://github.com/psychic1999/social-filters
 
+!!! baidu
+!! desktop
+baike.baidu.com###J-lemma-video-list
+baike.baidu.com###J-right-tashuo
+baike.baidu.com##.z-index-fixed-content
+baike.baidu.com###J-bottom-tashuo
+baike.baidu.com##.fadeIn
+
 !!! bilibili
 www.bilibili.com##.recommended-container_floor-aside
 www.bilibili.com##.trending

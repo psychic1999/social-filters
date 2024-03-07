@@ -2,6 +2,9 @@
 ! Expires: 12 hours
 ! Homepage: https://github.com/psychic1999/social-filters
 
+!!! bilibili
+m.bilibili.com##.m-home
+
 !!! comments
 ###comments
 ##.comments

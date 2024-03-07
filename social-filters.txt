@@ -3,6 +3,9 @@
 ! Homepage: https://github.com/psychic1999/social-filters
 
 !!! bilibili
+www.bilibili.com##.recommended-container_floor-aside
+www.bilibili.com##.trending
+www.bilibili.com##.rec-list
 m.bilibili.com##.m-home
 m.bilibili.com##.related-fit
 

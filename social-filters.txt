@@ -8,6 +8,7 @@ www.bilibili.com##.trending
 www.bilibili.com##.rec-list
 www.bilibili.com###activity_vote
 www.bilibili.com##.video-tag-container
+www.bilibili.com##.bili-mini-mask
 m.bilibili.com##.m-home
 m.bilibili.com##.related-fit
 

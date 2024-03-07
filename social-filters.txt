@@ -6,6 +6,8 @@
 www.bilibili.com##.recommended-container_floor-aside
 www.bilibili.com##.trending
 www.bilibili.com##.rec-list
+www.bilibili.com###activity_vote
+www.bilibili.com##.video-tag-container
 m.bilibili.com##.m-home
 m.bilibili.com##.related-fit
 

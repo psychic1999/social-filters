@@ -18,7 +18,7 @@ baike.baidu.com##.BK-after-content-wrapper
 
 !!! bilibili
 www.bilibili.com##.recommended-container_floor-aside
-www.bilibili.com##.trending
+bilibili.com##.trending
 www.bilibili.com##.rec-list
 www.bilibili.com###activity_vote
 www.bilibili.com##.video-tag-container

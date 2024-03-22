@@ -17,7 +17,6 @@ baike.baidu.com##.floatTashuo-list-wrapper
 baike.baidu.com##.BK-after-content-wrapper
 
 !!! bilibili
-!! desktop
 www.bilibili.com##.recommended-container_floor-aside
 bilibili.com##.trending
 www.bilibili.com##.rec-list
@@ -26,9 +25,9 @@ www.bilibili.com##.video-tag-container
 www.bilibili.com##.bili-mini-mask
 www.bilibili.com##.download-client-trigger
 www.bilibili.com##.vip-wrap
-!! mobile
 m.bilibili.com##.m-home
 m.bilibili.com##.related-fit
+m.bilibili.com##.m-search-hot
 
 !!! comments
 ###comments

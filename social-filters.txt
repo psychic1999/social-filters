@@ -272,6 +272,7 @@ m.youtube.com##.logo-in-player-endpoint
 ! shelves
 www.youtube.com##ytd-reel-shelf-renderer
 www.youtube.com##ytd-rich-shelf-renderer[is-shorts]
+m.youtube.com##ytm-reel-item-renderer
 m.youtube.com##ytm-reel-shelf-renderer
 ! sidebar
 www.youtube.com##ytd-guide-entry-renderer:has-text(Shorts)
